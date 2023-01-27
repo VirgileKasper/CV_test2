@@ -1,13 +1,3 @@
----
-title: Virgile Korsec's resume
-author: Virgile Korsec
-theme: jekyll-theme-minimal
-output:
-  pagedown::html_resume:
-#    css: ['dd_cv.css']
-    # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: false
----
 Aside
 ================================================================================
 
