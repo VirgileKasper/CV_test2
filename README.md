@@ -1,10 +1,10 @@
 ---
-title: Nick Strayer's Resume"
-author: Nick Strayer
+title: Virgile Korsec's resume
+author: Virgile Korsec
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    css: ['css/custom_resume.css', 'css/styles.css', 'resume']
+    css: ['dd_cv.css']
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
 ---
