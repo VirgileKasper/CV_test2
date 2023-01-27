@@ -1,4 +1,11 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+.Rproj.user/
+*Rproj
+.Rhistory
+resume_files/
+.secrets
+.DS_Store
+README.html
+*_cache/
+cv.html
+
+ddcv_cache.rds
