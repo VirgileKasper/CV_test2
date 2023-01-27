@@ -1,3 +1,11 @@
+---
+title: "Virgile Korsec resume"
+author: Virgile Korsec
+theme: jekyll-theme-minimal
+output:
+  pagedown::html_resume:
+---
+
 Aside
 ================================================================================
 
