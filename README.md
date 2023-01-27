@@ -5,15 +5,17 @@ date: "`r Sys.Date()`"
 theme: jekyll-theme-minimal
 output:
   pagedown::html_resume:
-    css: ['dd_cv.css']
+#    css: ['dd_cv.css']
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 ---
 Aside
 ================================================================================
+
+![](profil.png){width = 30%}
+
 Contact Info {#contact}
 
-![](profil.png)
 
 --------------------------------------------------------------------------------
 
