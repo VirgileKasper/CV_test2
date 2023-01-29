@@ -1,5 +1,6 @@
 format:
   html:
     theme: jekyll-theme-minimal
+    css: dd_cv.css
     self_contained: false
 title: Virgile's resume
