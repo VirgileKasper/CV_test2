@@ -1,0 +1,5 @@
+format:
+  html:
+    theme: jekyll-theme-minimal
+    self_contained: false
+title: Virgile's resume
