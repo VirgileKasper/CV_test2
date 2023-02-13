@@ -1,6 +1,4 @@
-format:
-  html:
-    theme: jekyll-theme-minimal
-    css: dd_cv.css
+title: "Virgile's resume"
+output:
+  pagedown::html_resume:
     self_contained: false
-title: Virgile's resume
